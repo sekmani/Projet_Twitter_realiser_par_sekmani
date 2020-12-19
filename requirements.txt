@@ -18,7 +18,6 @@ gensim == 3.8.3
 ipython == 7.16.1
 jupyter == 1.0.0
 matplotlib == 3.2.2
-mkl-random == 1.1.1
 nltk == 3.5
 py == 1.9.0
 python-twitter == 3.5
